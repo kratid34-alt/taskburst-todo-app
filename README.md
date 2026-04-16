@@ -18,7 +18,7 @@ A colorful and interactive Todo App to manage your daily tasks easily 🚀
 - JavaScript
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+(https://kratid34-alt.github.io/taskburst-todo-app/)
 
 ## 👩‍💻 Author
 Krati Dubey
